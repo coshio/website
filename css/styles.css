@@ -1,6 +1,7 @@
 /* this is the start of the CSS for our website */
 body {
     background-color: #F0F5F9;
+    font-family: 'Inconsolata', monospace;
 }
 hr {
     border-color: #1E2022;
@@ -17,4 +18,8 @@ h1, h2, h3 {
 
 #intro {
     width: 450px;
+}
+
+.table-descriptions {
+    margin: 20px;
 }
