@@ -10,3 +10,7 @@ hr {
     border-width: 5px;
     width: 10%;
 }
+
+h1, h2, h3 {
+    color: #1E2022;
+}
